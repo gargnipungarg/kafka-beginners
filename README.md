@@ -1,2 +1,0 @@
-# kafka-beginners
-Kakfa Practice
