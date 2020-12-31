@@ -1,5 +1,5 @@
 def requestArray = [
-    SOURCE: 'https://github.com/gargnipungarg/pipeline-devops.git',
+    SOURCE: 'https://github.com/gargnipungarg/kafka-beginners.git',
     BRANCH: 'main'
 ]
 
